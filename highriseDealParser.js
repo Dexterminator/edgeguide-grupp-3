@@ -27,6 +27,7 @@ var HighriseDealParse = function() {
   		"Created at: " + xmlDoc[i].getElementsByTagName("created")[0] + ", Updated at: " + xmlDoc[i].getElementsByTagName("updated-at")[0] + "\n";
   		everything += content  + "</div>";
   	};
+  	return everything;
 }
 </script>
 </body>
