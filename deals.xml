@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<deals type="array">
+  <deal>
+    <account-id type="integer">341349</account-id>
+    <author-id type="integer">1123183</author-id>
+    <background>bra sk&#228;rm s&#228;ljes! snabba deals!</background>
+    <category-id type="integer">5389110</category-id>
+    <created-at type="datetime">2015-04-15T12:57:53Z</created-at>
+    <currency>GBP</currency>
+    <duration type="integer">1</duration>
+    <group-id type="integer" nil="true"></group-id>
+    <id type="integer">4273789</id>
+    <name>14tums 4:3 sk&#228;rm</name>
+    <owner-id type="integer" nil="true"></owner-id>
+    <party-id type="integer" nil="true"></party-id>
+    <price type="integer">1000</price>
+    <price-type>fixed</price-type>
+    <responsible-party-id type="integer">1123183</responsible-party-id>
+    <status>lost</status>
+    <status-changed-on type="date">2015-04-15</status-changed-on>
+    <updated-at type="datetime">2015-04-15T13:55:51Z</updated-at>
+    <visible-to>Everyone</visible-to>
+    <category>
+      <id type="integer">5389110</id>
+      <name>Product</name>
+    </category>
+    <parties type="array"/>
+  </deal>
+  <deal>
+    <account-id type="integer">341349</account-id>
+    <author-id type="integer">1123183</author-id>
+    <background>Portal for extranet</background>
+    <category-id type="integer" nil="true"></category-id>
+    <created-at type="datetime">2015-04-15T11:30:04Z</created-at>
+    <currency>SEK</currency>
+    <duration type="integer">1</duration>
+    <group-id type="integer" nil="true"></group-id>
+    <id type="integer">4273625</id>
+    <name>Acme Portal</name>
+    <owner-id type="integer" nil="true"></owner-id>
+    <party-id type="integer">231538680</party-id>
+    <price type="integer">1000000</price>
+    <price-type>fixed</price-type>
+    <responsible-party-id type="integer">1123183</responsible-party-id>
+    <status>pending</status>
+    <status-changed-on type="date" nil="true"></status-changed-on>
+    <updated-at type="datetime">2015-04-15T12:53:14Z</updated-at>
+    <visible-to>Everyone</visible-to>
+    <party>
+      <author-id type="integer">1123183</author-id>
+      <background></background>
+      <created-at type="datetime">2015-04-15T11:30:04Z</created-at>
+      <group-id type="integer" nil="true"></group-id>
+      <id type="integer">231538680</id>
+      <owner-id type="integer" nil="true"></owner-id>
+      <type>Company</type>
+      <updated-at type="datetime">2015-04-15T14:21:56Z</updated-at>
+      <visible-to>Everyone</visible-to>
+      <name>Ansikts-Acne</name>
+      <avatar-url>http://cdn.37img.com/highrise/missing/avatar.gif?r=3</avatar-url>
+<contact-data>
+  <instant-messengers type="array"/>
+  <phone-numbers type="array"/>
+  <twitter-accounts type="array"/>
+  <web-addresses type="array"/>
+  <email-addresses type="array"/>
+  <addresses type="array"/>
+</contact-data>
+    </party>
+    <parties type="array"/>
+  </deal>
+  <deal>
+    <account-id type="integer">341349</account-id>
+    <author-id type="integer">1123183</author-id>
+    <background>For you face.</background>
+    <category-id type="integer" nil="true"></category-id>
+    <created-at type="datetime">2015-04-15T14:32:22Z</created-at>
+    <currency>USD</currency>
+    <duration type="integer">1</duration>
+    <group-id type="integer" nil="true"></group-id>
+    <id type="integer">4274003</id>
+    <name>Acne is bad</name>
+    <owner-id type="integer" nil="true"></owner-id>
+    <party-id type="integer" nil="true"></party-id>
+    <price type="integer">12</price>
+    <price-type>fixed</price-type>
+    <responsible-party-id type="integer">1123183</responsible-party-id>
+    <status>pending</status>
+    <status-changed-on type="date" nil="true"></status-changed-on>
+    <updated-at type="datetime">2015-04-15T14:32:22Z</updated-at>
+    <visible-to>Everyone</visible-to>
+    <parties type="array"/>
+  </deal>
+  <deal>
+    <account-id type="integer">341349</account-id>
+    <author-id type="integer">1123183</author-id>
+    <background>lolfi golfi, 500 PHP-sp&#228;nn.</background>
+    <category-id type="integer">5389109</category-id>
+    <created-at type="datetime">2015-04-15T12:54:41Z</created-at>
+    <currency>PHP</currency>
+    <duration type="integer">1</duration>
+    <group-id type="integer" nil="true"></group-id>
+    <id type="integer">4273777</id>
+    <name>golfi</name>
+    <owner-id type="integer" nil="true"></owner-id>
+    <party-id type="integer" nil="true"></party-id>
+    <price type="integer">500</price>
+    <price-type>fixed</price-type>
+    <responsible-party-id type="integer">1123183</responsible-party-id>
+    <status>pending</status>
+    <status-changed-on type="date" nil="true"></status-changed-on>
+    <updated-at type="datetime">2015-04-15T13:00:38Z</updated-at>
+    <visible-to>Everyone</visible-to>
+    <category>
+      <id type="integer">5389109</id>
+      <name>lolfi</name>
+    </category>
+    <parties type="array"/>
+  </deal>
+  <deal>
+    <account-id type="integer">341349</account-id>
+    <author-id type="integer">1123183</author-id>
+    <background>V&#228;ska nummer 4</background>
+    <category-id type="integer">5387347</category-id>
+    <created-at type="datetime">2015-04-15T12:46:16Z</created-at>
+    <currency>USD</currency>
+    <duration type="integer">1</duration>
+    <group-id type="integer" nil="true"></group-id>
+    <id type="integer">4273762</id>
+    <name>Ingen deal</name>
+    <owner-id type="integer" nil="true"></owner-id>
+    <party-id type="integer" nil="true"></party-id>
+    <price type="integer">200000</price>
+    <price-type>fixed</price-type>
+    <responsible-party-id type="integer">1123183</responsible-party-id>
+    <status>lost</status>
+    <status-changed-on type="date">2015-04-15</status-changed-on>
+    <updated-at type="datetime">2015-04-15T13:00:34Z</updated-at>
+    <visible-to>Everyone</visible-to>
+    <category>
+      <id type="integer">5387347</id>
+      <name>UI Design</name>
+    </category>
+    <parties type="array"/>
+  </deal>
+  <deal>
+    <account-id type="integer">341349</account-id>
+    <author-id type="integer">1123183</author-id>
+    <background>sadljkf</background>
+    <category-id type="integer">5389110</category-id>
+    <created-at type="datetime">2015-04-15T14:18:22Z</created-at>
+    <currency>USD</currency>
+    <duration type="integer">1</duration>
+    <group-id type="integer" nil="true"></group-id>
+    <id type="integer">4273969</id>
+    <name>NIX</name>
+    <owner-id type="integer" nil="true"></owner-id>
+    <party-id type="integer" nil="true"></party-id>
+    <price type="integer">123456</price>
+    <price-type>fixed</price-type>
+    <responsible-party-id type="integer">1123183</responsible-party-id>
+    <status>pending</status>
+    <status-changed-on type="date" nil="true"></status-changed-on>
+    <updated-at type="datetime">2015-04-15T14:18:22Z</updated-at>
+    <visible-to>Everyone</visible-to>
+    <category>
+      <id type="integer">5389110</id>
+      <name>Product</name>
+    </category>
+    <parties type="array"/>
+  </deal>
+  <deal>
+    <account-id type="integer">341349</account-id>
+    <author-id type="integer">1123183</author-id>
+    <background>Mycket pengar</background>
+    <category-id type="integer" nil="true"></category-id>
+    <created-at type="datetime">2015-04-15T13:28:57Z</created-at>
+    <currency>USD</currency>
+    <duration type="integer">1</duration>
+    <group-id type="integer" nil="true"></group-id>
+    <id type="integer">4273866</id>
+    <name>Senaste nytt inga problem</name>
+    <owner-id type="integer" nil="true"></owner-id>
+    <party-id type="integer" nil="true"></party-id>
+    <price type="integer">9999999999</price>
+    <price-type>fixed</price-type>
+    <responsible-party-id type="integer">1123183</responsible-party-id>
+    <status>pending</status>
+    <status-changed-on type="date" nil="true"></status-changed-on>
+    <updated-at type="datetime">2015-04-15T13:53:53Z</updated-at>
+    <visible-to>Everyone</visible-to>
+    <parties type="array"/>
+  </deal>
+  <deal>
+    <account-id type="integer">341349</account-id>
+    <author-id type="integer">1123183</author-id>
+    <background>test</background>
+    <category-id type="integer">5387348</category-id>
+    <created-at type="datetime">2015-04-15T12:54:42Z</created-at>
+    <currency>USD</currency>
+    <duration type="integer">10</duration>
+    <group-id type="integer" nil="true"></group-id>
+    <id type="integer">4273778</id>
+    <name>Test</name>
+    <owner-id type="integer" nil="true"></owner-id>
+    <party-id type="integer" nil="true"></party-id>
+    <price type="integer">100000</price>
+    <price-type>hour</price-type>
+    <responsible-party-id type="integer">1123183</responsible-party-id>
+    <status>won</status>
+    <status-changed-on type="date">2015-04-15</status-changed-on>
+    <updated-at type="datetime">2015-04-15T13:25:55Z</updated-at>
+    <visible-to>Everyone</visible-to>
+    <category>
+      <id type="integer">5387348</id>
+      <name>Strategy Consulting</name>
+    </category>
+    <parties type="array"/>
+  </deal>
+  <deal>
+    <account-id type="integer">341349</account-id>
+    <author-id type="integer">1123183</author-id>
+    <background>Testdeal</background>
+    <category-id type="integer" nil="true"></category-id>
+    <created-at type="datetime">2015-04-15T13:58:50Z</created-at>
+    <currency>USD</currency>
+    <duration type="integer">1</duration>
+    <group-id type="integer" nil="true"></group-id>
+    <id type="integer">4273924</id>
+    <name>The deal</name>
+    <owner-id type="integer" nil="true"></owner-id>
+    <party-id type="integer">231541599</party-id>
+    <price type="integer">0</price>
+    <price-type>fixed</price-type>
+    <responsible-party-id type="integer">1123183</responsible-party-id>
+    <status>pending</status>
+    <status-changed-on type="date" nil="true"></status-changed-on>
+    <updated-at type="datetime">2015-04-15T13:58:50Z</updated-at>
+    <visible-to>Everyone</visible-to>
+    <party>
+      <author-id type="integer">1123183</author-id>
+      <background></background>
+      <company-id type="integer" nil="true"></company-id>
+      <created-at type="datetime">2015-04-15T12:55:50Z</created-at>
+      <first-name>Sven</first-name>
+      <group-id type="integer" nil="true"></group-id>
+      <id type="integer">231541599</id>
+      <last-name>Svensson</last-name>
+      <owner-id type="integer" nil="true"></owner-id>
+      <title></title>
+      <type>Person</type>
+      <updated-at type="datetime">2015-04-15T12:56:07Z</updated-at>
+      <visible-to>Everyone</visible-to>
+      <company-name nil="true"></company-name>
+      <linkedin-url nil="true"></linkedin-url>
+      <avatar-url>http://cdn.37img.com/highrise/missing/avatar.gif?r=3</avatar-url>
+<contact-data>
+  <instant-messengers type="array"/>
+  <phone-numbers type="array"/>
+  <twitter-accounts type="array"/>
+  <web-addresses type="array"/>
+  <email-addresses type="array"/>
+  <addresses type="array"/>
+</contact-data>
+    </party>
+    <parties type="array"/>
+  </deal>
+</deals>
