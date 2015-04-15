@@ -1,11 +1,13 @@
-var HighriseDealParse = function(xmlString) {
-	parser = new DOMParser();
-  	xmlDoc = parser.parseFromString(xmlString,"text/xml");
-  	
 
+
+var HighriseDealParse = function() {
+	xmlhttp.open("GET","deals.xml",false);
+	xmlhttp.send();
+	xmlDoc=xmlhttp.responseXML;
+	var everything;
   	for (var i = 0; i < xmlDoc.length; i++) {
-  		var title = xmlDoc[i].getElementsByTagName("name")[0];
-  		var content = "";
+  		everything += "\n<div>";
+  		var content = xmlDoc[i].getElementsByTagName("name")[0] + "\n";
   		content += "Price: " + xmlDoc[i].getElementsByTagName("price")[0] + " " + xmlDoc[i].getElementsByTagName("currency")[0] + "\n";
   		if(xmlDoc[i].getElementsByTagName("price")[0] > 10000) {
   			content += '<img scr="http://media.giphy.com/media/w2JmkbOHFoq8U/giphy.gif">' + "\n";
@@ -22,7 +24,7 @@ var HighriseDealParse = function(xmlString) {
   		}
   		content += "Seller: " + xmlDoc[i].getElementsByTagName("id")[0] + "\n" + 
   		"Created at: " + xmlDoc[i].getElementsByTagName("created")[0] + ", Updated at: " + xmlDoc[i].getElementsByTagName("updated-at")[0] + "\n";
-  		postToStream(title, content);
+  		everything += content  + "</div>";
   	};
 }
 
